@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ceuta - Algeciras",
+    "code": "CEUTALGE",
+    "from": "Ceuta",
+    "to": "Algeciras"
+  },
+  {
+    "name": "Algeciras - Ceuta",
+    "code": "ALGECEUT",
+    "from": "Algeciras",
+    "to": "Ceuta"
+  }
+]
